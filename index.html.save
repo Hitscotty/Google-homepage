@@ -1,0 +1,32 @@
+<html>
+	<title>Google</title>
+		<head> </head>
+		<body>
+			<link type="text/css" rel="stylesheet" href="style.css">
+			<!--Top Section-->
+			<div class="topBar">
+				<ul>
+					<li><a href="www.google.com"><img class="circle"src="https://s-media-cache-ak0.pinimg.com/avatars/hitscotty-1395707911_140.jpg"</a></li>
+					<li><a href="www.google.com">Images</a></li>
+					<li><a href="www.google.com">Gmail</a></li>
+					<li><a href="www.google.com">+Jonathan</a></li>
+
+
+			</div>
+
+			<!--Middle Section-->
+			<div class="logoBox"> 
+				<img class="logo" src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png" /img> 
+			</div>
+
+
+			<!--Bottom Section-->
+			<div class="search">
+				<div clas="searchBox">
+				</div>
+
+			</div>
+
+		</body>
+
+</htm

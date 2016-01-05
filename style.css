@@ -1,0 +1,112 @@
+
+body{
+	margin: 0;
+}
+
+/*-----------------------------------------*/
+				/*top*/
+/*-----------------------------------------*/
+
+.topBar {
+  	margin-top: 20px;
+  	height: 30px;
+}
+
+.topBar ul {
+  	list-style: none;
+}
+
+.topBar li {
+  	float: right;
+  	margin: -10px 15px 1px 5px;
+}
+/* image */
+.topBar img {
+ 	width: 25px;
+  	height: 25px;
+  	margin-top: -5px;
+  	border-radius: 50%;
+}
+
+/*-----------------------------------------*/
+				/*middle*/
+/*-----------------------------------------*/
+
+.middle {
+  	text-align: center;
+  	padding-top: 150px;
+  	height: 435px;
+}
+
+.middle div {
+  	height: 70px;
+}
+
+.search ul {  
+  	margin-right: 40px;
+  	list-style: none;
+}
+
+.search li {
+  	margin: 3px;
+  	font-family: arial;
+  	display: inline;
+  	font-size: 20px;
+  	background-color: #D8D8D8;
+  	border-radius: 2px;
+}
+
+input {
+	width: 500px;
+    height: 30px;
+}
+
+.search a:link {
+	text-decoration: none;
+}
+
+.search a:hover {
+	border: 1px solid #585858;
+}
+
+/*-----------------------------------------*/
+				/*bottom*/
+/*-----------------------------------------*/
+
+.bottom {
+	text-align: center;
+	padding: 0px;
+	height: 50px;
+	background-color: #D8D8D8;
+}
+
+.bottom ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+.bottom .left li {
+	float: left;
+	margin: 5px;
+}
+
+.bottom .right li {
+	float: right;
+	margin: 5px;
+}
+
+/*-----------------------------------------*/
+	/* dealing with all links on page */
+/*-----------------------------------------*/
+a{
+	color: #585858;
+}
+a:link {
+	color: red;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
